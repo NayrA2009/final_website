@@ -101,3 +101,18 @@ a:hover{
 a:active {
     text-decoration: none;
 }
+
+#homeText{
+    width: 500px;
+    margin: 0 auto;
+}
+
+#techContainer{
+    width: 500px;
+    margin: 0 auto;
+}
+
+#profContainer{
+    width: 500px;
+    margin: 0 auto;
+}
